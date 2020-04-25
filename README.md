@@ -1,2 +1,2 @@
-# Data-Science-with-Python
-Learning Data Science with python
+# Basic-Data-Science
+Learning Data Science
