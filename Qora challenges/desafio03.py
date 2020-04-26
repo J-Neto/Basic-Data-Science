@@ -6,8 +6,11 @@
 #José Ribeiro Neto
 
 num = int(input('Qual número você deseja receber a sequência fibonacci?'))
+#Valor a ser somado
 ant = 0
+#Valor de referência
 atual = 1
+#Valor intermediário que salva o valor anterior antes de ser alterado
 inter = 0
 
 while(atual <= num):
